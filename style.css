@@ -3,5 +3,8 @@ h1{
     text-align: center;
 }
 p{
-    text-decoration: black;
+    text-decoration: rgb(240, 233, 233);
+}
+body{
+    background-color: black;
 }
